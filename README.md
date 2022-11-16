@@ -2,13 +2,11 @@
 
 # Math curriculum for data science
 
-## Algebra
+## Algebra I, II
 
 ## Precalculus
 
-## Calculus I
-
-## Calculus II
+## Calculus I, II
 
 ## Linear Algebra
 
